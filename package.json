@@ -1,0 +1,19 @@
+{
+  "name": "redux-mini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "dependencies": {
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "redux-form": "^7.3.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "parcel": "^1.8.1"
+  }
+}

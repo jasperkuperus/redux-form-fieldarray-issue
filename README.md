@@ -1,6 +1,10 @@
 # Redux Form FieldArray unmount issue
 
+This repo demonstrates a Redux Form issue with FieldArray.
+
 ## Getting started
+
+Clone this repo and run the following commands:
 
 ```
 yarn install
